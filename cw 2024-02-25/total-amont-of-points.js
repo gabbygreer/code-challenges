@@ -18,7 +18,7 @@
 // 0 <= y <= 4
 
 //get our team scores
-//loop scores
+//loop
 //add scores
 //return total
 
